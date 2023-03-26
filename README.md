@@ -1,2 +1,3 @@
 # Git_seminar
-hallo hallo ich name ist buminjasl;dfkjasd;fkljadf
+My name is Bumin Yun, and I'm a newbie of SPARCS 23, plus KAIST.
+Sorry for contacting to you, ivy....
